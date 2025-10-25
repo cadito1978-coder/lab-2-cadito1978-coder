@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Diego Torres Cartas
+- Matrícula: S25018129
+- Fecha: 24/10/25
 
 ## 🎯 Objetivos
 
